@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# 2048GAME
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+基于Java.awt实现的2048游戏。基础功能已完成,由于本人配色困难，后序数字块未配色。
+此外本游戏存在缺陷，未实现随机生成其他数字，导致必可通关。为满足自己小小的虚荣心，就不改了。
